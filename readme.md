@@ -1,1 +1,1 @@
-# This repo contains all the dsa question solved from GFG and LeetCode
+# This repo contains all the Question solved from LeetCode #
